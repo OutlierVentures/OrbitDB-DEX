@@ -1,3 +1,6 @@
 order_book/orbitdb/*
 order_book/TODO.txt
 **/node_modules
+.idea
+.vscode
+.DS_Store
