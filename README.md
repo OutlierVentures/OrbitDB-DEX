@@ -29,13 +29,10 @@ truffle migrate
 ## Run
 
 Start the app:
+
 ```sh
 cd dex-front
 npm start
 ```
 
-See the readme in the front-end folder
-
-1. Front-end: [code](https://github.com/IC3RE/orbitdb-dex/tree/master/dex-front)
-2. Order book: [code](https://github.com/IC3RE/orbitdb-dex/tree/master/order_book)
-3. Smart contracts: [code](https://github.com/IC3RE/orbitdb-dex/tree/master/smart_contracts)
+See the readme in the front-end folder (`dex-front`) for testing and building for production.
