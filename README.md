@@ -1,6 +1,17 @@
-# OrbitDB DEX
-
-This repositry covers the code produced as part of the OrbitDB decentralized exchange (DEX) research project. The DEX has three parts:
+<p align="center">
+    <img src="./img/logo.png" width="550" />
+    <br><br>
+    <a href="https://github.com/orbitdb/orbit-db" alt="OrbitDB">
+        <img src="./img/orbitv.svg" />
+    </a>
+    <a href="https://outlierventures.io" alt="Convergence ready">
+        <img src="./img/convergence.svg" />
+    </a>
+    <br><br>
+    A decentralised exchange on OrbitDB.
+    <br><br>
+    <i>An app in the Convergence Stack.</i>
+</p>
 
 ## Requirements
 
