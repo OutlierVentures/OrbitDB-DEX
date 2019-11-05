@@ -1,5 +1,9 @@
 {
   "scripts": {
     "test": "nyc mocha"
+  },
+  "dependencies": {
+    "ipfs": "^0.39.0",
+    "orbit-db": "^0.22.0"
   }
 }
