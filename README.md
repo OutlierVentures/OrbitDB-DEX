@@ -8,7 +8,8 @@
         <img src="./img/convergence.svg" />
     </a>
     <br><br>
-    A decentralised exchange on OrbitDB.
+    A decentralised exchange on OrbitDB.<br>
+    Authors: <a href="https://github.com/tomwalton78">Walton</a>, <a href="https://github.com/nud3l">Harz</a> and <a href="https://github.com/ivan-chan123">Chan</a>.
     <br><br>
     <i>An app in the Convergence Stack.</i>
 </p>
