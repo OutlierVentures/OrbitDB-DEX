@@ -9,7 +9,8 @@
     </a>
     <br><br>
     A decentralised exchange on OrbitDB.<br>
-    Authors: <a href="https://github.com/tomwalton78">Walton</a>, <a href="https://github.com/nud3l">Harz</a> and <a href="https://github.com/ivan-chan123">Chan</a>.
+    Authors: Raid Ateir, Michael Bolter, Ivan Chan, Miaojun Huang, Clavance Lim, Thomas Walton<br>
+    Supervisor: Dominik Harz
     <br><br>
     <i>An app in the Convergence Stack.</i>
 </p>
